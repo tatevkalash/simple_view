@@ -1,0 +1,39 @@
+@font-face {
+    font-family:'DejaVuSansExtraLight';
+    src: url('../fonts/DejaVuSansExtraLight.eot');
+    src: url('../fonts/DejaVuSansExtraLight.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/DejaVuSansExtraLight.ttf') format('truetype'),
+    url('../fonts/DejaVuSansExtraLight.woff2') format('woff2'),
+    url('../fonts/DejaVuSansExtraLight.woff') format('woff'),
+    url('../fonts/DejaVuSansExtraLight.svg#DejaVuSansExtraLight') format('svg');
+    font-weight: 200;
+    font-style: normal;
+    font-stretch: normal;
+    unicode-range: U+0020-2074;
+}
+@font-face {
+    font-family:'DejaVuSansBold';
+    src: url('../fonts/DejaVuSansBold.eot');
+    src: url('../fonts/DejaVuSansBold.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/DejaVuSansBold.ttf') format('truetype'),
+    url('../fonts/DejaVuSansBold.woff2') format('woff2'),
+    url('../fonts/DejaVuSansBold.woff') format('woff'),
+    url('../fonts/DejaVuSansBold.svg#DejaVuSansBold') format('svg');
+    font-weight: 700;
+    font-style: normal;
+    font-stretch: normal;
+    unicode-range: U+0020-2074;
+}
+@font-face {
+    font-family:'DejaVuSans';
+    src: url('../fonts/DejaVuSans.eot');
+    src: url('../fonts/DejaVuSans.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/DejaVuSans.ttf') format('truetype'),
+    url('../fonts/DejaVuSans.woff2') format('woff2'),
+    url('../fonts/DejaVuSans.woff') format('woff'),
+    url('../fonts/DejaVuSans.svg#DejaVuSans') format('svg');
+    font-weight: 400;
+    font-style: normal;
+    font-stretch: normal;
+    unicode-range: U+0020-2074;
+}
